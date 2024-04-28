@@ -2,5 +2,5 @@
 - ⚔️ Red teamer wannabe
 - 🔮 "Hacking is the closest we get to real life black magic"
 ~~~
-! My libre EH field book coming soon! (Early 2024)
-  You can check progress on "The_VX-Files" repository.
+! My libre EH field book under ~eternal construction:
+    https://malcrvz.gitbook.io/the-vx-files/
